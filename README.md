@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola, me llamo Belén 👋
+
+- 🌱 En este momento soy estudiante de Diseño Gráfico y estoy realizando un curso de Programación Fullstack! 
+- 😄 Curiosidades:  Me gusta mucho el arte y el diseño, y siempre estoy creando cosas nuevas y aprendiendo.
 
 <!--
 **BelenVictorio/BelenVictorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
